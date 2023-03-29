@@ -4,3 +4,7 @@
 # 수정하겠습니다.
 # 이름: 김형운
 # 학번: 2018203061
+
+def funcion():
+	print("firt code")
+	return 1
