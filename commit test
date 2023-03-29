@@ -4,7 +4,12 @@
 # 수정하겠습니다.
 # 이름: 김형운
 # 학번: 2018203061
+# 학과: 소프트웨어학부
 
 def funcion():
 	print("firt code")
 	return 1
+
+def function2():
+	print("second code")
+	return 0
